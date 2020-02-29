@@ -1,1 +1,1 @@
-# servlet17june2
+# my-servlet
